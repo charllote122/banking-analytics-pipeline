@@ -1,0 +1,15 @@
+# Python Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Data files (too large for GitHub)
+data/raw/*.csv
+data/processed/*.csv
+
+# VS Code settings
+.vscode/
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
